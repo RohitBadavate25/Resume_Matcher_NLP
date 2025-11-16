@@ -21,3 +21,7 @@ __pycache__/
 
 # Environment files
 .env
+
+# Uploads (keep folder, ignore files)
+backend/upload/*
+!backend/upload/.gitkeep
